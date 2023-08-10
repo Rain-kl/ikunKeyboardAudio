@@ -1,0 +1,4 @@
+C:/Users/wyrms/CLionProjects/ji/cmake-build-debug/CMakeFiles/ji.dir
+C:/Users/wyrms/CLionProjects/ji/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/wyrms/CLionProjects/ji/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wyrms/CLionProjects/ji/cmake-build-debug/CMakeFiles/rebuild_cache.dir
